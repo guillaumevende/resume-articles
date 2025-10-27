@@ -52,7 +52,7 @@ resume-articles/
 ```
 
 ## ⚙️ Utilisation
-1. Placez un ou plusieurs fichiers .html dans input/.
+1. Créez un dossier input/ au même emplacement que le script et placez un ou plusieurs fichiers .html dans.
 
 2. Lancez le script :
 ```bash
